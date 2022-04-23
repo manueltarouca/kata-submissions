@@ -1,1 +1,1 @@
-# kata-submissions
+# Typescript kata-submissions
